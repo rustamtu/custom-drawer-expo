@@ -1,0 +1,9 @@
+https://reactnative.dev/docs/environment-setup
+https://www.youtube.com/watch?v=rURsnoBkzfk
+Navigation Drawer + Bottom Navigation + Bottom Sheet Dialog in React Native | All in one app
+https://github.com/bizzara/rncomponents/tree/main
+
+
+How to create Custom Drawer Navigation with animation in React-Native | React-Navigation v6 | Part-1
+https://www.youtube.com/watch?v=FATLP5SkGxE&list=PLhRhTJaArVFuwrCl5K9bSWlBOw5aOf_CB
+https://github.com/vishalpwr/react-native-ui
